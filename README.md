@@ -30,3 +30,4 @@ Copy the assets you need from the distribution to your project's assets (by defa
 
 <uses-permission android:name="android.permission.INTERNET" />
 
+
