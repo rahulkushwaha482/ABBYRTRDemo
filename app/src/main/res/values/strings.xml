@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RTRDemo</string>
+    <string name="please_take_pic_of_business_card">Please Take Pic Of Business Card</string>
+    <string name="please_take_picture">Take your picture here.</string>
+</resources>
