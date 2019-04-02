@@ -1,4 +1,4 @@
-# ABBYRTRDemo
+# ABBYYRTRDemo
 
 ## ABBY Real-Time Recognition SDK. This is a demo of Real time text recognition demo app in built in java with android studio.
 
@@ -36,16 +36,15 @@ dependencies {
     compile(name:'abbyy-rtr-sdk-1.0', ext:'aar')
 }
 
-Copy the assets you need from the distribution to your project's assets (by default, app/src/main/assets).
-There are three types of resources used by the library: dictionaries, patterns, and translation dictionaries. 
-See Minimize Your Memory Footprint for a short description of the necessary resources.
+#### Copy the assets you need from the distribution to your project's assets (by default, app/src/main/assets).
+####  There are three types of resources used by the library: dictionaries, patterns, and translation dictionaries. 
+#### See Minimize Your Memory Footprint for a short description of the necessary resources.
 
- Important! With common licenses, 
  
- your Android OCR application needs an Internet connection to gather the information about the current state of the library.
+### your Android OCR application needs an Internet connection to gather the information about the current state of the library.
  
- Include the following line into your AndroidManifest.xml:
+## Include the following line into your AndroidManifest.xml:
 
-<uses-permission android:name="android.permission.INTERNET" />
+##### <uses-permission android:name="android.permission.INTERNET" />
 
 
