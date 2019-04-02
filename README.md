@@ -1,8 +1,10 @@
 # ABBYRTRDemo
-ABBY Real-Time Recognition SDK. This is a demo of Real time text recognition demo app in built in java with android studio.
+
+## ABBY Real-Time Recognition SDK. This is a demo of Real time text recognition demo app in built in java with android studio.
+
 Follow this link to implement RTR SDK .
-https://rtrsdk.com/documentation/android/quick-start-guide/
-Explore your Android OCR library distribution
+### https://rtrsdk.com/documentation/android/quick-start-guide/
+
 In the download package of the Android OCR SDK you can find:
 
 the Android OCR library itself (libs/abbyy-rtr-sdk-1.0.aar)
