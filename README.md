@@ -29,3 +29,4 @@ Copy the assets you need from the distribution to your project's assets (by defa
  Important! With common licenses, your Android OCR application needs an Internet connection to gather the information about the current state of the library. Include the following line into your AndroidManifest.xml:
 
 <uses-permission android:name="android.permission.INTERNET" />
+
